@@ -1,2 +1,2 @@
-sdp_git_assignment
-==================
+This is the Git Assignment
+==========================
